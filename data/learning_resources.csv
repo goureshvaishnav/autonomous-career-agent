@@ -1,0 +1,25 @@
+resource_id,title,provider,skills,url,resource_type,estimated_hours
+R001,Python for Everybody,University of Michigan / Coursera,python,https://www.coursera.org/specializations/python,Course,25
+R002,Python Tutorial,Python Official Documentation,python,https://docs.python.org/3/tutorial/,Documentation,8
+R003,SQLBolt Interactive Lessons,SQLBolt,sql,https://sqlbolt.com/,Practice,6
+R004,Mode SQL Tutorial,Mode,sql,https://mode.com/sql-tutorial/,Tutorial,8
+R005,Intro to Statistical Learning,ISLR,statistics,https://www.statlearning.com/,Book / course,20
+R006,Scikit-learn User Guide,scikit-learn,scikit-learn;machine learning,https://scikit-learn.org/stable/user_guide.html,Documentation,12
+R007, Kaggle Learn: Pandas,Kaggle,pandas,https://www.kaggle.com/learn/pandas,Course,5
+R008,Power BI Learning,Microsoft,power bi;data visualization,https://learn.microsoft.com/power-bi/,Documentation,10
+R009,Git Book,Git SCM,git,https://git-scm.com/book/en/v2,Documentation,5
+R010,Google Machine Learning Crash Course,Google,machine learning;statistics,https://developers.google.com/machine-learning/crash-course,Course,15
+R011,Prompt Engineering Guide,DAIR.AI,prompt engineering;llm,https://www.promptingguide.ai/,Guide,5
+R012,Retrieval-Augmented Generation Overview,LlamaIndex,rag;embeddings;llm,https://docs.llamaindex.ai/,Documentation,6
+R013,FastAPI Tutorial,FastAPI,api;python,https://fastapi.tiangolo.com/tutorial/,Documentation,8
+R014,MDN JavaScript Guide,MDN,javascript;html;css,https://developer.mozilla.org/en-US/docs/Learn,Documentation,12
+R015,React Learn,React,react,https://react.dev/learn,Documentation,12
+R016,OWASP Top 10,OWASP,security fundamentals,https://owasp.org/www-project-top-ten/,Guide,6
+R017,Linux Journey,Linux Journey,linux,https://linuxjourney.com/,Tutorial,8
+R018,Docker Get Started,Docker,docker,https://docs.docker.com/get-started/,Documentation,5
+R019,Google Cloud Skills Boost,Google,cloud fundamentals,https://www.cloudskillsboost.google/,Learning platform,10
+R020,Testing with Python,pytest,testing,https://docs.pytest.org/en/stable/,Documentation,5
+R021,spaCy 101,spaCy,nlp,https://spacy.io/usage/spacy-101,Documentation,5
+R022,Hugging Face NLP Course,Hugging Face,transformers;nlp;embeddings,https://huggingface.co/learn/nlp-course,Course,15
+R023,Google Technical Writing Courses,Google,technical writing,https://developers.google.com/tech-writing,Course,5
+R024,Google Cloud Skills Boost - Generative AI,Google,llm;prompt engineering,https://www.cloudskillsboost.google/paths/118,Learning platform,8
