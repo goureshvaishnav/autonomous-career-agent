@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Autonomous Career Navigation Agent
 
 A lightweight final-year B.Tech AI project prototype for personalized career exploration. It combines a transparent ML career-ranking baseline, skill-gap analysis, curated learning-roadmap generation, progress tracking, PDF resume skill extraction, and a local retrieval-based career assistant with optional Gemini API generation.
@@ -106,3 +107,6 @@ Create 20–50 anonymized or synthetic student profiles with expected top career
 - Resume skill detection uses known phrases and can miss synonyms or context.
 - Match scores are relative ranking aids, not employment probabilities.
 - Career recommendations should support, not replace, a student's own judgment or qualified career guidance.
+=======
+# autonomous-career-agent
+>>>>>>> 433f034835d932aa6209efab8b611653ad64515d
